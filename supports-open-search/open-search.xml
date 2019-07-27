@@ -1,10 +1,10 @@
 <OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/" xmlns:moz="http://www.mozilla.org/2006/browser/search/">
     <ShortName>Open Search Sample</ShortName>
     <Description>Sample of Open Search Sample</Description>
-    <Url type="text/html" method="get" template="http://opensearch.local/search.html?q={searchTerms}" />
+    <Url type="text/html" method="get" template="https://opensearch.byidmore.com//search.html?q={searchTerms}" />
     <Image height="16" width="16" type="image/png">
       https://avatars1.githubusercontent.com/u/11908475
     </Image>
-    <moz:SearchFrom>http://opensearch.local</moz:SearchFrom>
-    <Url type="application/opensearchdescription+xml" rel="self" template="http://opensearch.local/open-search.xml"/>
+    <moz:SearchFrom>https://opensearch.byidmore.com/</moz:SearchFrom>
+    <Url type="application/opensearchdescription+xml" rel="self" template="https://opensearch.byidmore.com/open-search.xml"/>
 </OpenSearchDescription>
