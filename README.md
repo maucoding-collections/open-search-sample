@@ -1,5 +1,8 @@
-# open-search-sample
+# Open-search-sample
 Open search make it possible browser to dettect website as search engine, and set as default search on browser., or you can search from website withput open it first.
+
+## Youtube
+https://www.youtube.com/watch?v=r5fUcH4o6V8
 
 ## Requirements
 NGINX or something else, (cause the website must runing on some domain)
